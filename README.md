@@ -2,6 +2,10 @@
 
 A simple and responsive landing page showcasing the beauty, culture, and attractions of Bogor City, Indonesia. This project is built using only **HTML5** and **CSS3**, making it lightweight, fast, and easy to customize.
 
+## Live Preview
+
+[Click Here](https://daryanep.github.io/landingpage-city-bogor/)
+
 ## 📌 Features
 
 * Responsive design
